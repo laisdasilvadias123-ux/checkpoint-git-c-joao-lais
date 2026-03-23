@@ -1,6 +1,7 @@
-g#include <stdio.h>
+#include <stdio.h>
  
 int main() {
+    // Checkpoint realizado por Lais e Joao Augusto
     printf("========================================\n");
     printf("   CHECKPOINT 1 - GIT, GITHUB E C      \n");
     printf("========================================\n");
